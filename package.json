@@ -2,6 +2,7 @@
   "name": "nextjs",
   "version": "1.0.0",
   "private": "true",
+  "homepage": "https://java-zhara.github.io/my-next",
   "description": "",
   "main": "index.js",
   "scripts": {
